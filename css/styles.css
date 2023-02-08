@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(32, 33, 36);
+}
+
+.app-container {
+  padding: 20px;
+}
